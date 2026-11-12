@@ -89,6 +89,15 @@
                                 },
                                 "planObjectID": {
                                     "type": "string"
+                                },
+								"respOrg": {
+                                    "type": "string"
+                                },
+								"startTime": {
+                                    "type": "string"
+                                },
+								"endTime": {
+                                    "type": "string"
                                 }
                             }
                         },
@@ -195,6 +204,9 @@
                                     "type": "string"
                                 },
                                 "relatedObjectID": {
+                                    "type": "string"
+                                },
+								"respOrg": {
                                     "type": "string"
                                 },
 								"startTime": {
